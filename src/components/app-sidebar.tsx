@@ -46,6 +46,10 @@ const data = {
           title: "Certifications",
           url: "/certifications",
         },
+        {
+          title: "Templates",
+          url: "/",
+        },
       ],
     }
   ],
